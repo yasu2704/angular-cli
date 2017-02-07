@@ -1,4 +1,4 @@
-# angular-cli
+# Supported tags and respective `Dockerfile` links
 * [`7.5-latest`](https://github.com/yasu2704/angular-cli/blob/a664f3794dfd26db09a7463268a18a42c3d01d93/7.5-latest/Dockerfile), [`latest`](https://github.com/yasu2704/angular-cli/blob/a664f3794dfd26db09a7463268a18a42c3d01d93/7.5-latest/Dockerfile) [(7.5-latest/Dockerfile)](https://github.com/yasu2704/angular-cli/blob/a664f3794dfd26db09a7463268a18a42c3d01d93/7.5-latest/Dockerfile)
 * [`6.9-latest`](https://github.com/yasu2704/angular-cli/blob/a664f3794dfd26db09a7463268a18a42c3d01d93/6.9-latest/Dockerfile) [(6.9-latest/Dockerfile)](https://github.com/yasu2704/angular-cli/blob/a664f3794dfd26db09a7463268a18a42c3d01d93/6.9-latest/Dockerfile)
 
