@@ -1,4 +1,3 @@
-
 FROM node:6.9
 MAINTAINER yasu2704
 RUN curl -o- -L https://yarnpkg.com/install.sh | bash \
