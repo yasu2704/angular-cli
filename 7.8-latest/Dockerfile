@@ -1,4 +1,4 @@
-FROM node:7.7
+FROM node:7.8
 MAINTAINER yasu2704
 RUN npm install -g @angular/cli
 EXPOSE 4200
