@@ -1,0 +1,5 @@
+FROM node:7.9
+MAINTAINER yasu2704
+RUN npm install -g @angular/cli
+EXPOSE 4200
+CMD tail -f /dev/null
